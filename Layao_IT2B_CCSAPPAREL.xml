@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ccs-apparel [
+<!ELEMENT ccs-apparel (home, about, services, feedbacks-and-ratings, contacts)>
+<!ELEMENT home (about-us, best-sales, products)>
+<!ELEMENT about (biography)>
+<!ELEMENT services (tailor, fashion-design, photograph, dressmaking, stylist, organizing-event)>
+<!ELEMENT feedbacksandratings (comment, name, rating)>
+<!ELEMENT contacts (contact-us)>
+<!ELEMENT products (top, terno, trousers-for-men, trousers-for-women, polo-shirts-for-men, shoes, dress, formal, oversized-shirts)>
+<!ELEMENT payment (payment, place-order )>
+<!ELEMENT footer (copyright )>
+<!ELEMENT home (#PCDATA)>
+<!ELEMENT about (#PCDATA)>
+<!ELEMENT services (#PCDATA)>
+<!ELEMENT feedbacksandratings (#PCDATA)>
+<!ELEMENT contacts (#PCDATA)>
+<!ELEMENT products (#PCDATA)>
+<!ELEMENT payment (#PCDATA)>
+<!ELEMENT footer (#PCDATA)>
+<!ATTLIST navigation no CDATA #REQUIRED>
+<!ATTLIST top origin CDATA #REQUIRED>
+<!ATTLIST terno origin CDATA #REQUIRED>
+<!ATTLIST trousersformen origin CDATA #REQUIRED>
+<!ATTLIST trousersforwomen origin CDATA #REQUIRED>
+<!ATTLIST poloandshirtsformen origin CDATA #REQUIRED>
+<!ATTLIST shoes origin CDATA #REQUIRED>
+<!ATTLIST dress origin CDATA #REQUIRED>
+<!ATTLIST formal origin CDATA #REQUIRED>
+<!ATTLIST oversizedshirts origin CDATA #REQUIRED>
+
+]>
+
+<ccs-apparel>
+	<home>
+		<navigation no="1">Home</navigation>
+		<navigation no="2">About</navigation>
+		<navigation no="3">Services</navigation>
+		<navigation no="3">feedbacksandratings</navigation>
+		<navigation no="4">Contacts</navigation>
+
+		<home >
+			Welcome to CC's Apparel! 
+			Look Good, Feel Good, Do Good! 
+			Roses Are Red, Violet Are Blue So What Are You Waiting For, Grab Some Too! CC's Apparel Gives A Dashing And Stunning Look. We Will Grant You. ;)
+			About Us 
+
+			<bestsales>
+			Top 95%
+			Terno 80%
+			Trousers for women 85%
+			Shoes 98%
+			Dress 95%
+			Oversized Shirts 98%
+		    </bestsales>
+            
+
+			<products>
+				Top
+				   <viewmore>
+				   <image>top1</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top2</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top3</image>
+				   <price>$9.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top4</image>
+				   <price>$5.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top5</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top6</image>
+				   <price>$8.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top7</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top8</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top9</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top10</image>
+				   <price>$4.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top11</image>
+				   <price>$5.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top12</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top13</image>
+				   <price>$8.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top14</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>top15</image>
+				   <price>$5.0</price>
+                   BUY NOW
+                   Message
+               </viewmore>
+
+			    Terno 
+			       <viewmore>
+				   <image>terno1</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>terno2</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>terno3</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>terno4</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>terno5</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>terno6</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>terno7</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>terno8</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>terno9</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>terno10</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>terno11</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>terno12</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+               </viewmore>
+
+			    Trousers for men
+			       <viewmore>
+				   <image>men1</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>men2</image>
+				   <price>$15.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>men3</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>men4</image>
+				   <price>$15.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>men5</image>
+				   <price>$8.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>men6</image>
+				   <price>$11.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>men7</image>
+				   <price>$7.7</price>
+                   BUY NOW
+                   Message
+
+                   <image>men8</image>
+				   <price>$12.3</price>
+                   BUY NOW
+                   Message
+
+                   <image>men9</image>
+				   <price>$7.50</price>
+                   BUY NOW
+                   Message
+
+                   <image>men10</image>
+				   <price>$15.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>men11</image>
+				   <price>$1.60</price>
+                   BUY NOW
+                   Message
+
+                   <image>men12</image>
+				   <price>$13.0</price>
+                   BUY NOW
+                   Message
+               </viewmore>
+
+			   Trousers for women 
+			       <viewmore>
+			       	<image>TrousersW0</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+				   <image>women1</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>women2</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>women3</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>women4</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>women5</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>women6</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>women7</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>women8</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>women9</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>women10</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>women11</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>women12</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>women13</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>women14</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+               </viewmore>
+
+			    Polo and Shirts for men
+			       <viewmore>
+				   <image>polo1</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>polo2</image>
+				   <price>$10.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>polo3</image>
+				   <price>$13.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>polo4</image>
+				   <price>$9.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>polo5</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>polo6</image>
+				   <price>$7.7</price>
+                   BUY NOW
+                   Message
+
+                   <image>polo7</image>
+				   <price>$11.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>polo8</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>polo9</image>
+				   <price>$6.55</price>
+                   BUY NOW
+                   Message
+
+                   <image>polo10</image>
+				   <price>$10.4</price>
+                   BUY NOW
+                   Message
+
+                   <image>polo11</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>polo12</image>
+				   <price>$8.3</price>
+                   BUY NOW
+                   Message
+               </viewmore>
+
+			    Shoes
+			       <viewmore>
+				   <image>shoes1</image>
+				   <price>$22.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>shoes2</image>
+				   <price>$19.2</price>
+                   BUY NOW
+                   Message
+
+                   <image>shoes3</image>
+				   <price>$17.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>shoes4</image>
+				   <price>$23.9</price>
+                   BUY NOW
+                   Message
+
+                   <image>shoes5</image>
+				   <price>$15.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>shoes6</image>
+				   <price>$22.5O</price>
+                   BUY NOW
+                   Message
+
+                   <image>shoes7</image>
+				   <price>$23.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>shoes8</image>
+				   <price>$27.9</price>
+                   BUY NOW
+                   Message
+
+                   <image>shoes9</image>
+				   <price>$22.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>shoes10</image>
+				   <price>$16.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>shoes11</image>
+				   <price>$24.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>shoes12</image>
+				   <price>$21.2</price>
+                   BUY NOW
+                   Message
+               </viewmore>
+
+			    Dress
+			       <viewmore>
+				   <image>dress1</image>
+				   <price>$10.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>dress2</image>
+				   <price>$7.7</price>
+                   BUY NOW
+                   Message
+
+                   <image>dress3</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>dress4</image>
+				   <price>$11.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>dress5</image>
+				   <price>$5.10</price>
+                   BUY NOW
+                   Message
+
+                   <image>dress6</image>
+				   <price>$14.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>dress7</image>
+				   <price>$15.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>dress8</image>
+				   <price>$18.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>dress9</image>
+				   <price>$11.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>dress10</image>
+				   <price>$9.2</price>
+                   BUY NOW
+                   Message
+
+                   <image>dress11</image>
+				   <price>$14.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>dress12</image>
+				   <price>$10.4</price>
+                   BUY NOW
+                   Message
+               </viewmore>
+
+                Formal
+                   <viewmore>
+				   <image>formal1</image>
+				   <price>$20.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>formal2</image>
+				   <price>$22.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>formal3</image>
+				   <price>$20.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>formal4</image>
+				   <price>$18.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>formal5</image>
+				   <price>$5.10</price>
+                   BUY NOW
+                   Message
+
+                   <image>formal6</image>
+				   <price>$20.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>formal7</image>
+				   <price>$11.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>formal8</image>
+				   <price>$10.0</price>
+                   BUY NOW
+                   Message
+
+                   <image>formal9</image>
+				   <price>$13.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>formal10</image>
+				   <price>$12.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>formal11</image>
+				   <price>$20.5</price>
+                   BUY NOW
+                   Message
+
+                   <image>formal12</image>
+				   <price>$22.5</price>
+                   BUY NOW
+                   Message
+               </viewmore>
+
+			    Oversized Shirts
+			       <viewmore>
+			       	<image>oversized1</image>
+				    <price>$8.2</price>
+                    BUY NOW
+                    Message
+
+                    <image>oversized2</image>
+				    <price>$5.5</price>
+                    BUY NOW
+                    Message
+
+                    <image>oversized3</image>
+				    <price>$4.0</price>
+                    BUY NOW
+                    Message
+
+                    <image>oversized4</image>
+				    <price>$10.0</price>
+                    BUY NOW
+                    Message
+
+                    <image>oversized5</image>
+				    <price>$12.5</price>
+                    BUY NOW
+                    Message
+
+                    <image>oversized6</image>
+				    <price>$12.5</price>
+                    BUY NOW
+                    Message
+
+                    <image>oversized7</image>
+				    <price>$11.5</price>
+                    BUY NOW
+                    Message
+
+                    <image>oversized8</image>
+				    <price>$10.2</price>
+                    BUY NOW
+                    Message
+
+                    <image>oversized9</image>
+				    <price>$13.3</price>
+                    BUY NOW
+                    Message
+
+                    <image>oversized10</image>
+				    <price>$11.5</price>
+                    BUY NOW
+                    Message
+
+                    <image>oversized11</image>
+				    <price>$9.2</price>
+                    BUY NOW
+                    Message
+
+                    <image>oversized12</image>
+				    <price>$11.2</price>
+                    BUY NOW
+                    Message
+                </viewmore>
+			</products>
+		</home>
+	</home>
+        
+
+    
+		
+
+    <about>
+    	<navigation no="1">Home</navigation>
+		<navigation no="2">About</navigation>
+		<navigation no="3">Services</navigation>
+		<navigation no="3">feedbacksandratings</navigation>
+		<navigation no="4">Contacts</navigation>
+
+	    BIOGRAPHY
+		Want to know us more?
+
+		<name> Charlene Joy Layao </name>
+		<email> layaocharlenejoy@gmail.com </email>
+		<address> Buliasnin, Boac </address>
+		<phone> 09109211276 </phone>
+		<age> 20 years </age>
+		<experience> 2+ years </experience>
+
+		<name> Charedel De Mesa </name>
+		<email> charedeldemesa631@gmail.com </email>
+		<address> Tabigue, Boac </address>
+		<phone> 09387881106 </phone>
+		<age> 20 years </age>
+		<experience> 2+ years </experience>
+
+		Download CV
+
+    </about>
+		
+
+
+	<services>
+		<navigation no="1">Home</navigation>
+		<navigation no="2">About</navigation>
+		<navigation no="3">Services</navigation>
+		<navigation no="3">feedbacksandratings</navigation>
+		<navigation no="4">Contacts</navigation>
+
+		SERVICES
+		<icon>heart</icon>
+		<tailor>We Can Create, Recycle And Fix Your Things. Making The Worst Into Much Better And Elegant</tailor>
+		<icon>paint brush</icon>
+		<fashiondesign>Fashion Design Is The Art Of Applying Design, Aesthetics, Clothing Construction And Natural Beauty To Clothing And Its Accessories. We Create Clothes Including Dresses, Suits, Pants, And Skirts, And Accessories Like Shoes And Handbags, For Consumers.</fashiondesign>
+		<icon>camera</icon>
+        <photograph>Need A Photographer? We Can Offer You That. We Are Available For Capturing Your Moments Either It's For Your Wedding, Birthdays, Graduations And Etc.Just Name It And We Will Give It.</photograph>
+        <icon>scissor</icon>
+        <dressmaking>A Dressmaker, Also Known As A Seamstress, Is A Person Who Makes Custom Clothing For Women, Such As Dresses, Blouses, And Evening Gowns.For Any Occasions If You Need Our Service In Terms Of Making Dresses In Any Kind Of Occasions, Just Give Us A Beep Or Call.</dressmaking>
+        <icon>pencil</icon>
+        <stylist>Good Stylists Use Their Fashion Knowledge To Create Appealing Displays And Outfits, Accentuating The Brand They Work For And Delivering A Visual Message.</stylist>
+        <icon>pencil</icon>
+        <stylist>Good Stylists Use Their Fashion Knowledge To Create Appealing Displays And Outfits, Accentuating The Brand They Work For And Delivering A Visual Message.</stylist>
+
+    </services>
+
+
+    <feedbacksandratings> 
+        What Our Customer Says?
+        What You Wear Each Day Speaks Half Of Your Inside Self. Let Us Take A Look For Our Friendly Customers Feedback And Feelings!
+        <image>cat</image>
+        <comment>Wearing What You Want And What Makes You Comfortable Gives You A Peace Inside You, Makes You Relaxed And Also Exercises Your Confidence In The Process. All Item Is Pretty Nice And Affordable! Additionally, The Seller Is So Approachable And Understanding, I Will Surely Buy Again, Hope Our Boss Will Advance Our Pay Hehe ((:</comment>
+        <name>Pepal P. Ment</name>
+        <rating>5 star</rating>
+
+
+        <image>baby</image>
+        <comment>Being Fashionable And Wearing My Types Of Clothes Plays A Major Role In Developing My Personality. It Build’s My Character. It Feels Like What I Wear Is What Truly Am I. I Got My Package Well Packed And What U See Is What U Trully Get. Also, This Site Is Good, You Got A Thumbs Up On Me! Keep It Up!</comment>
+        <name>Skwi D. Ward</name>
+        <rating>4 star</rating>
+
+
+        <image>cat</image>
+        <comment>Wearing What You Want And What Makes You Comfortable Gives You A Peace Inside You, Makes You Relaxed And Also Exercises Your Confidence In The Process. All Item Is Pretty Nice And Affordable! Additionally, The Seller Is So Approachable And Understanding, I Will Surely Buy Again, Hope Our Boss Will Advance Our Pay Hehe ((:</comment>
+        <name>Pepal P. Ment</name>
+        <rating>5 star</rating>
+
+    </feedbacksandratings>
+
+    <contact>
+    	<contact-me message ="center">
+    		<text>enter your name</text>
+			<text>enter your email</text>
+			<text>enter your number</text>
+			<text>enter your message</text>
+			Send Message
+			<phone>09987654321</phone>
+			<email>ccsapparel@gmail.com</email>
+			<address>ccsapparel@gmail.com</address>
+
+    
+
+    		<payment>
+    			PAYMENT
+    				<text>enter your name</text>
+					<text>enter your email</text>
+					<text>enter your number</text>
+					<text>complete address</text>
+					<text>quantity</text>
+		    		Place Order
+					<phone>09987654321</phone>
+					<email>ccsapparel@gmail.com</email>
+					<address>ccsapparel@gmail.com</address>
+
+    		</payment>
+
+  		</contact-me>
+  	</contact>
+
+</ccs-apparel>
